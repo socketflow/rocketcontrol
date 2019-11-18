@@ -1,2 +1,2 @@
 # rocketcontrol
-better control your rocket's path
+better control your rocket's trajectory
